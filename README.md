@@ -1,4 +1,4 @@
-# Getting Started with Create CI/CD pr
+# Getting Started with Create CI/CD PROJET
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
